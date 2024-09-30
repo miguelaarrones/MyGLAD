@@ -1,0 +1,12 @@
+# Ignore Everything
+*
+
+# Except
+!.gitignore
+!CMakeLists.txt
+!README.md
+
+!/include
+!/include/**
+!/sources
+!/sources/**
